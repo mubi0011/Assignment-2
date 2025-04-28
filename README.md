@@ -205,7 +205,7 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 Awesome Services | Designed with ❤️</p>
+  <p>MADE BY MUBASHIR</p>
 </footer>
 
 </body>
